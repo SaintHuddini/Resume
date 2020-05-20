@@ -55,6 +55,11 @@
     margin-bottom: 40px;
 }
 
+.timeline-item a {
+    color: white;
+    text-decoration: none;
+}
+
 /* ----------------------------------------Special paddings/margins/text */
 
 h1,
